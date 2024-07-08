@@ -1,0 +1,1 @@
+Created this Chrome extension as part of my web app, ClubConnect, designed to keep you updated with all information related to college clubs.No need to visit the webapp again and again to check for updates, just tap on the extension icon and get all the updates
